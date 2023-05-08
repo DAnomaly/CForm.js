@@ -26,7 +26,7 @@ class CForm {
 	 * Add Parameter
 	 * 
 	 * @param {string} name Input's name attribute
-	 * @param {value} value Input's value attribute
+	 * @param {string} value Input's value attribute
 	 * @returns this
 	 */
 	setData(name, value) {
